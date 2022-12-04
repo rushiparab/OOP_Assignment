@@ -1,4 +1,3 @@
-Scome local changes
 Q1. What is the purpose of Python's OOP?
 Ans: OOP Provides us differnt advantages:
 		Encapsulation: Binding of the attributes and methods making it more secure.
